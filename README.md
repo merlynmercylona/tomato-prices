@@ -23,4 +23,4 @@ Files:
 The Templates branch contains 2 html files:
     1) monthly_tomato_home - Home page that takes in user inputs Month, Market Area, Average Tonnes per month for that market
     2) tomato_result - Displays the predicted values
-* Requirements contains the python libraries required to run the pogram
+* Requirements contains the python libraries required to run the program
